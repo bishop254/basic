@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Home Page
 ![Home Page](public/home.png)
-
+---
 All Samurai
 ![Samurai Page](public/extra.png)
 
