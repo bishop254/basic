@@ -33,15 +33,13 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
----
-
 ## Preview of the App
-
 Home Page
 ![Home Page](public/home.png)
 ---
 All Samurai
 ![Samurai Page](public/extra.png)
-
+---
 Single Samurai
 ![Single Samurai](public/samurai.png)
+---
